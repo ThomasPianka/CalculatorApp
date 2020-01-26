@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="clear">CLEAR</string>
+    <string name="decimal">Decimal</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="binary">Binary</string>
+    <string name="octal">Octal</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="divide">DIVIDE</string>
+</resources>
